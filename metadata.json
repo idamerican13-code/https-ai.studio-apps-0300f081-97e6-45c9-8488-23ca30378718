@@ -1,0 +1,6 @@
+{
+  "name": "Ward Zero",
+  "description": "A tense first-person 3D survival-horror hide-and-seek game inside abandoned Old Changi Hospital. Manage your torch, lure the stalking Nurse with bottles, hide in lockers, and restore four fuses to escape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
